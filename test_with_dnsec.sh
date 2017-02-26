@@ -1,0 +1,26 @@
+#! /bin/bash
+python my_dig.py google.com   A True 
+python my_dig.py youtube.com   A True  
+python my_dig.py facebook.com   A True  
+python my_dig.py baidu.com   A True  
+python my_dig.py yahoo.com   A True  
+python my_dig.py wikipedia.org   A True  
+python my_dig.py google.co.in   A True  
+python my_dig.py tmall.com   A True  
+python my_dig.py qq.com   A True  
+python my_dig.py amazon.com   A True  
+python my_dig.py sohu.com   A True  
+python my_dig.py google.co.jp   A True  
+python my_dig.py taobao.com   A True  
+python my_dig.py live.com   A True  
+python my_dig.py vk.com   A True  
+python my_dig.py twitter.com   A True  
+python my_dig.py 360.cn   A True  
+python my_dig.py linkedin.com   A True  
+python my_dig.py instagram.com   A True  
+python my_dig.py yahoo.co.jp   A True  
+python my_dig.py sina.com.cn   A True  
+python my_dig.py jd.com   A True  
+python my_dig.py google.de   A True  
+python my_dig.py reddit.com   A True  
+python my_dig.py google.co.uk   A True  
